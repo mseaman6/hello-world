@@ -1,2 +1,2 @@
 # hello-world
-idea and general info
+ideas and general info that develops as I learn to code
